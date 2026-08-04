@@ -1,9 +1,4 @@
--- ============================================================
--- Enterprise E-Commerce Analytics Platform
--- 03_create_staging_tables.sql
--- Creates the Staging Layer
--- PostgreSQL Compatible
--- ============================================================
+
 
 ---------------------------------------------------------------
 -- Drop Existing Tables
