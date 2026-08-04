@@ -1,9 +1,4 @@
--- ============================================================================
--- Enterprise E-Commerce Analytics Platform
--- 08_quality_checks.sql
--- Data Quality & Reconciliation Checks
--- PostgreSQL Compatible
--- ============================================================================
+
 
 BEGIN;
 
