@@ -1,9 +1,4 @@
--- ============================================================
--- Enterprise E-Commerce Analytics Platform
--- 05_create_warehouse_tables.sql
--- Creates the Warehouse Layer (Star Schema)
--- PostgreSQL Compatible
--- ============================================================
+
 
 ---------------------------------------------------------------
 -- Drop Existing Warehouse Tables
