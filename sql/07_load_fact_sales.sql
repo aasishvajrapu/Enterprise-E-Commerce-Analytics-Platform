@@ -1,9 +1,4 @@
--- ============================================================================
--- Enterprise E-Commerce Analytics Platform
--- 07_load_fact_sales.sql
--- Load Warehouse Fact Table
--- PostgreSQL Compatible
--- ============================================================================
+
 BEGIN;
 
 TRUNCATE TABLE warehouse.fact_sales RESTART IDENTITY CASCADE;
