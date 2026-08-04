@@ -1,7 +1,4 @@
--- ===========================================
--- Enterprise E-Commerce Analytics Platform
--- Raw Layer Tables
--- ===========================================
+
 
 -- Customers
 CREATE TABLE IF NOT EXISTS raw.customers (
