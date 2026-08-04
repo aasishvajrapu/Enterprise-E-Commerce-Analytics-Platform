@@ -1,9 +1,4 @@
--- ============================================================
--- Enterprise E-Commerce Analytics Platform
--- 04_load_staging.sql
--- Loads and transforms RAW data into the STAGING layer
--- PostgreSQL Compatible
--- ============================================================
+
 
 ---------------------------------------------------------------
 -- Clear Existing Data
