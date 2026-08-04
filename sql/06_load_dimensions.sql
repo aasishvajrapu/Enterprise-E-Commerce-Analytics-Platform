@@ -1,10 +1,4 @@
--- ============================================================================
--- Enterprise E-Commerce Analytics Platform
--- 06_load_dimensions.sql
--- Load Warehouse Dimension Tables
--- PostgreSQL Compatible
--- Ready for DBeaver
--- ============================================================================
+
 
 BEGIN;
 
